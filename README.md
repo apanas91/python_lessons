@@ -1,2 +1,3 @@
 # python_lessons
-решения задач pyhon
+решения задач python
+python + selenium
